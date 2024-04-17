@@ -1,4 +1,6 @@
 # Inference for ONNX model
+#권희재
+
 import os
 import cv2
 cuda = True
